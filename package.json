@@ -1,0 +1,20 @@
+{
+  "name": "daeja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.36.3",
+    "discord.js": "^13.9.0",
+    "mongoose": "^6.5.0",
+    "svg-png-converter": "^0.0.9"
+  }
+}
